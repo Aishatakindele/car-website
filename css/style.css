@@ -1,0 +1,32 @@
+.hero-section{
+    background-color: rgb(103,105,116);
+    padding-top: 10px;
+}
+.left-side img{
+    width: 20px;
+    height: 20px;
+}
+.ul{
+    list-style: none;
+    margin-left: 20px;
+    padding: 0px;
+} 
+.left-side li{
+    display: flex;
+    padding: 10px 0px;
+    align-items: center;
+}
+.right-side img{
+    width: 20px;
+    height: 20px;
+}
+ul.{
+    list-style: none;
+    margin-right: 20px;
+    padding: 0px;
+}
+.right-side li{
+    align-items: center;
+    display: flex;
+    padding: 10px 0px;
+}
